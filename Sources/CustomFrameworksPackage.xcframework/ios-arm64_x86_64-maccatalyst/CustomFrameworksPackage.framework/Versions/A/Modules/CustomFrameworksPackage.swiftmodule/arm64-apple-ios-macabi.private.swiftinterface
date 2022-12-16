@@ -8,5 +8,6 @@ import Swift
 import _Concurrency
 import _StringProcessing
 public struct SDK {
+  public static func configure(apiKey: Swift.String)
   public static func doSomeWork()
 }
