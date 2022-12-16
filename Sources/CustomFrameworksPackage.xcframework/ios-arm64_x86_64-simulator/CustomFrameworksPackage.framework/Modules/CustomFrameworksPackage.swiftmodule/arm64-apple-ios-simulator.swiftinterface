@@ -8,3 +8,7 @@ import Swift
 import UIKit
 import _Concurrency
 import _StringProcessing
+@_hasMissingDesignatedInitializers public class Interface {
+  public static func launchNewApp() -> UIKit.UIViewController
+  @objc deinit
+}

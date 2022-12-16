@@ -30,6 +30,44 @@
         "printedName": "UIKit",
         "declKind": "Import",
         "moduleName": "CustomFrameworksPackage"
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "Interface",
+        "printedName": "Interface",
+        "children": [
+          {
+            "kind": "Function",
+            "name": "launchNewApp",
+            "printedName": "launchNewApp()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "UIViewController",
+                "printedName": "UIKit.UIViewController",
+                "usr": "c:objc(cs)UIViewController"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:23CustomFrameworksPackage9InterfaceC12launchNewAppSo16UIViewControllerCyFZ",
+            "mangledName": "$s23CustomFrameworksPackage9InterfaceC12launchNewAppSo16UIViewControllerCyFZ",
+            "moduleName": "CustomFrameworksPackage",
+            "static": true,
+            "declAttributes": [
+              "Final",
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "s:23CustomFrameworksPackage9InterfaceC",
+        "mangledName": "$s23CustomFrameworksPackage9InterfaceC",
+        "moduleName": "CustomFrameworksPackage",
+        "declAttributes": [
+          "AccessControl"
+        ],
+        "hasMissingDesignatedInitializers": true
       }
     ],
     "json_format_version": 8
