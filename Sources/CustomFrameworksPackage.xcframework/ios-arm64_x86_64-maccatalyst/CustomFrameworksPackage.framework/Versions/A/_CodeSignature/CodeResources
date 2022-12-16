@@ -4,6 +4,10 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>Resources/DummyViewController.nib</key>
+		<data>
+		0K97CsY9Tqim3ABtfYEGxehDr3k=
+		</data>
 		<key>Resources/Info.plist</key>
 		<data>
 		C+fP98YV6Q4o4E6Q+sZjFQ6pVok=
@@ -29,14 +33,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			KV6lXTJejTl3rz3hr2chV5qRh9WpjZvWGezy3sRlqQg=
+			kY3DETTy7OfoTMmoND1bhKeLzYCsKHmWtzalte9CtdM=
 			</data>
 		</dict>
 		<key>Modules/CustomFrameworksPackage.swiftmodule/arm64-apple-ios-macabi.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			0HauvpmvbxTk5bE5cWhz/z5i6yRfinG77JBSnWreohM=
+			AAcN/IRLY8vftMGJ8BgCn5v7uIcqtPyUX/QMYVLNLHI=
 			</data>
 		</dict>
 		<key>Modules/CustomFrameworksPackage.swiftmodule/arm64-apple-ios-macabi.swiftdoc</key>
@@ -50,28 +54,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			0HauvpmvbxTk5bE5cWhz/z5i6yRfinG77JBSnWreohM=
+			AAcN/IRLY8vftMGJ8BgCn5v7uIcqtPyUX/QMYVLNLHI=
 			</data>
 		</dict>
 		<key>Modules/CustomFrameworksPackage.swiftmodule/arm64-apple-ios-macabi.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			rux6m8T/IguBNICseXOBF7OE4Ghppg046L98YlUHLKc=
+			7hTS9DoYoXwDilnqGEfhEbRnrphoxRqgypQmBJVnNmE=
 			</data>
 		</dict>
 		<key>Modules/CustomFrameworksPackage.swiftmodule/x86_64-apple-ios-macabi.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			KV6lXTJejTl3rz3hr2chV5qRh9WpjZvWGezy3sRlqQg=
+			kY3DETTy7OfoTMmoND1bhKeLzYCsKHmWtzalte9CtdM=
 			</data>
 		</dict>
 		<key>Modules/CustomFrameworksPackage.swiftmodule/x86_64-apple-ios-macabi.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			J9dwJNpi2nJGmlGFG5zTNHtd0GJZnRb1k+9zbc7AFMI=
+			Z7YcoIGgoQbu6LmTiFtGWc2NPJXHlWztwLUkzioTgqU=
 			</data>
 		</dict>
 		<key>Modules/CustomFrameworksPackage.swiftmodule/x86_64-apple-ios-macabi.swiftdoc</key>
@@ -85,14 +89,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			J9dwJNpi2nJGmlGFG5zTNHtd0GJZnRb1k+9zbc7AFMI=
+			Z7YcoIGgoQbu6LmTiFtGWc2NPJXHlWztwLUkzioTgqU=
 			</data>
 		</dict>
 		<key>Modules/CustomFrameworksPackage.swiftmodule/x86_64-apple-ios-macabi.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Wwq0Wr1RHVJwFeiRqa2dcXpdn7aEg834rukwwt3JiiA=
+			JIgaHY0BtlheP/YeaMQBqs6sncOJanVq0dn983LThGw=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -100,6 +104,13 @@
 			<key>hash2</key>
 			<data>
 			dQMKc/rzag5a0veJI1AkdMaDKt0N+QZDsG3IBhPgTZY=
+			</data>
+		</dict>
+		<key>Resources/DummyViewController.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			hvQkV3CILtvP3XPhYw/J2RopjOSsQOinUZ1pYGFQPaQ=
 			</data>
 		</dict>
 		<key>Resources/Info.plist</key>

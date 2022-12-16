@@ -5,9 +5,6 @@
 @_exported import CustomFrameworksPackage
 import Foundation
 import Swift
+import UIKit
 import _Concurrency
 import _StringProcessing
-public struct SDK {
-  public static func configure(apiKey: Swift.String)
-  public static func doSomeWork()
-}

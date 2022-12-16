@@ -6,6 +6,16 @@
     "children": [
       {
         "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "CustomFrameworksPackage",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
         "name": "Foundation",
         "printedName": "Foundation",
         "declKind": "Import",
@@ -15,84 +25,22 @@
         ]
       },
       {
-        "kind": "TypeDecl",
-        "name": "SDK",
-        "printedName": "SDK",
-        "children": [
-          {
-            "kind": "Function",
-            "name": "configure",
-            "printedName": "configure(apiKey:)",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Void",
-                "printedName": "()"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "String",
-                "printedName": "Swift.String",
-                "usr": "s:SS"
-              }
-            ],
-            "declKind": "Func",
-            "usr": "s:23CustomFrameworksPackage3SDKV9configure6apiKeyySS_tFZ",
-            "mangledName": "$s23CustomFrameworksPackage3SDKV9configure6apiKeyySS_tFZ",
-            "moduleName": "CustomFrameworksPackage",
-            "static": true,
-            "declAttributes": [
-              "AccessControl"
-            ],
-            "funcSelfKind": "NonMutating"
-          },
-          {
-            "kind": "Function",
-            "name": "doSomeWork",
-            "printedName": "doSomeWork()",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Void",
-                "printedName": "()"
-              }
-            ],
-            "declKind": "Func",
-            "usr": "s:23CustomFrameworksPackage3SDKV10doSomeWorkyyFZ",
-            "mangledName": "$s23CustomFrameworksPackage3SDKV10doSomeWorkyyFZ",
-            "moduleName": "CustomFrameworksPackage",
-            "static": true,
-            "declAttributes": [
-              "AccessControl"
-            ],
-            "funcSelfKind": "NonMutating"
-          }
-        ],
-        "declKind": "Struct",
-        "usr": "s:23CustomFrameworksPackage3SDKV",
-        "mangledName": "$s23CustomFrameworksPackage3SDKV",
-        "moduleName": "CustomFrameworksPackage",
-        "declAttributes": [
-          "AccessControl"
-        ]
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "CustomFrameworksPackage"
       }
     ],
     "json_format_version": 8
   },
   "ConstValues": [
     {
-      "filePath": "\/Users\/jigar\/iCloud Drive (Archive)\/Documents\/AllFileCustomFrameworks\/CutomFrameworks OG\/CustomFrameworksPackage\/CustomFrameworksPackage\/SDK.swift",
-      "kind": "BooleanLiteral",
-      "offset": 171,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/jigar\/iCloud Drive (Archive)\/Documents\/AllFileCustomFrameworks\/CutomFrameworks OG\/CustomFrameworksPackage\/CustomFrameworksPackage\/SDK.swift",
-      "kind": "Array",
-      "offset": 215,
-      "length": 31,
-      "value": "[\"privateKey123\"]"
+      "filePath": "\/Users\/jigar\/iCloud Drive (Archive)\/Documents\/AllFileCustomFrameworks\/CutomFrameworks OG\/CustomFrameworksPackage\/CustomFrameworksPackage\/DummyViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 114,
+      "length": 19,
+      "value": "\"CustomFrameworksPackage.DummyViewController\""
     }
   ]
 }
