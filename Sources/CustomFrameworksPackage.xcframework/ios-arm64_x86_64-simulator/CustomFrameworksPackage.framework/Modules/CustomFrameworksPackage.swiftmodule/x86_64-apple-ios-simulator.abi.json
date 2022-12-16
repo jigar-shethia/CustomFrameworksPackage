@@ -48,6 +48,34 @@
               "AccessControl"
             ],
             "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "launchNewApp",
+            "printedName": "launchNewApp(baseVC:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "UIViewController",
+                "printedName": "UIKit.UIViewController",
+                "usr": "c:objc(cs)UIViewController"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:23CustomFrameworksPackage9InterfaceC12launchNewApp6baseVCySo16UIViewControllerC_tFZ",
+            "mangledName": "$s23CustomFrameworksPackage9InterfaceC12launchNewApp6baseVCySo16UIViewControllerC_tFZ",
+            "moduleName": "CustomFrameworksPackage",
+            "static": true,
+            "declAttributes": [
+              "Final",
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
           }
         ],
         "declKind": "Class",
