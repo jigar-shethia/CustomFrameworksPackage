@@ -8,7 +8,12 @@ import Swift
 import UIKit
 import _Concurrency
 import _StringProcessing
-@_hasMissingDesignatedInitializers public class Interface {
+@_hasMissingDesignatedInitializers open class Interface {
   public static func launchNewApp() -> UIKit.UIViewController
+  @objc deinit
+}
+@objc @_hasMissingDesignatedInitializers @_Concurrency.MainActor(unsafe) public class NewAppViewController : UIKit.UIViewController {
+  @_Concurrency.MainActor(unsafe) @objc override dynamic public func viewDidLoad()
+  @_Concurrency.MainActor(unsafe) @objc dynamic public init()
   @objc deinit
 }
