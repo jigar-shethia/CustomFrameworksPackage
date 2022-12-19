@@ -101,5 +101,13 @@
     ],
     "json_format_version": 8
   },
-  "ConstValues": []
+  "ConstValues": [
+    {
+      "filePath": "\/Users\/jigar\/iCloud Drive (Archive)\/Documents\/AllFileCustomFrameworks\/CutomFrameworks OG\/CustomFrameworksPackage\/CustomFrameworksPackage\/IntegrationViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 128,
+      "length": 25,
+      "value": "\"CustomFrameworksPackage.IntegrationViewController\""
+    }
+  ]
 }
