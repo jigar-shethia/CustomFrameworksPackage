@@ -13,8 +13,3 @@ import _StringProcessing
   public static func launchNewApp(baseVC: UIKit.UIViewController)
   @objc deinit
 }
-@objc @_hasMissingDesignatedInitializers @_Concurrency.MainActor(unsafe) public class NewAppViewController : UIKit.UIViewController {
-  @_Concurrency.MainActor(unsafe) @objc override dynamic public func viewDidLoad()
-  @_Concurrency.MainActor(unsafe) @objc dynamic public init()
-  @objc deinit
-}

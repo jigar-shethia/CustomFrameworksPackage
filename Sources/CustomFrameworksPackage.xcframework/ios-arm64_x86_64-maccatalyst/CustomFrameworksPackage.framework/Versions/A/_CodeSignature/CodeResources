@@ -19,7 +19,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			HZq1FPylnSoc79yf/UKJPm8DUy1qEs4z2TvvGPZ7Eqo=
+			xXjjIdP0VUbWDXgZAFFSnlRivp1+yu6GJ/c9QvYBpBE=
 			</data>
 		</dict>
 		<key>Headers/CustomFrameworksPackage.h</key>
@@ -33,14 +33,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			EeYVSNn3FTs/tjs6jnir0TWFhk2f51fBdNqs1oBSmjE=
+			/nUmXHhIVlJM6/sRStG5pRJkqvdcktoBd4LJ/CvknEU=
 			</data>
 		</dict>
 		<key>Modules/CustomFrameworksPackage.swiftmodule/arm64-apple-ios-macabi.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			N4Jedu7332Os+6iwTIc8jCcMP1Fy+Eat3E/GJI5WnvY=
+			sIto9f3aPinNUKXCMDbZGUE2otxxgb39doN0SeUts3U=
 			</data>
 		</dict>
 		<key>Modules/CustomFrameworksPackage.swiftmodule/arm64-apple-ios-macabi.swiftdoc</key>
@@ -54,28 +54,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			N4Jedu7332Os+6iwTIc8jCcMP1Fy+Eat3E/GJI5WnvY=
+			sIto9f3aPinNUKXCMDbZGUE2otxxgb39doN0SeUts3U=
 			</data>
 		</dict>
 		<key>Modules/CustomFrameworksPackage.swiftmodule/arm64-apple-ios-macabi.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			9FcB7SsyryP3Njk2/UdURyNgkvRn3Jiy8lA5aWqGOWo=
+			JDersxv6gK6wwnb2nYvN6wee02Hm4KqvhR7GfnQypHQ=
 			</data>
 		</dict>
 		<key>Modules/CustomFrameworksPackage.swiftmodule/x86_64-apple-ios-macabi.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			EeYVSNn3FTs/tjs6jnir0TWFhk2f51fBdNqs1oBSmjE=
+			/nUmXHhIVlJM6/sRStG5pRJkqvdcktoBd4LJ/CvknEU=
 			</data>
 		</dict>
 		<key>Modules/CustomFrameworksPackage.swiftmodule/x86_64-apple-ios-macabi.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			aNxRkDjvl1uwXpULWCPPGsuC1IErUrRtnxIGs2Df3Ec=
+			PRwOFinC4iu9EUmmJLp9JJT9k3gEBDPaBymuzLjkngU=
 			</data>
 		</dict>
 		<key>Modules/CustomFrameworksPackage.swiftmodule/x86_64-apple-ios-macabi.swiftdoc</key>
@@ -89,14 +89,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			aNxRkDjvl1uwXpULWCPPGsuC1IErUrRtnxIGs2Df3Ec=
+			PRwOFinC4iu9EUmmJLp9JJT9k3gEBDPaBymuzLjkngU=
 			</data>
 		</dict>
 		<key>Modules/CustomFrameworksPackage.swiftmodule/x86_64-apple-ios-macabi.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			D7a0YCD/4t1Hx6fL2qbm0mNK9cHkM3dxK09lATC7irk=
+			1d0BNG58hWFlTyHTamUrvOpDu0ZpTmFLvAkr2WxOFSA=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

@@ -230,7 +230,6 @@ using UInt = size_t;
 #if __has_warning("-Watimport-in-framework-header")
 #pragma clang diagnostic ignored "-Watimport-in-framework-header"
 #endif
-@import UIKit;
 #endif
 
 #endif
@@ -251,18 +250,6 @@ using UInt = size_t;
 #endif
 
 #if defined(__OBJC__)
-@class NSCoder;
-@class NSString;
-@class NSBundle;
-
-SWIFT_CLASS("_TtC23CustomFrameworksPackage20NewAppViewController")
-@interface NewAppViewController : UIViewController
-- (void)viewDidLoad;
-- (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
-- (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)coder SWIFT_UNAVAILABLE;
-- (nonnull instancetype)initWithNibName:(NSString * _Nullable)nibNameOrNil bundle:(NSBundle * _Nullable)nibBundleOrNil SWIFT_UNAVAILABLE;
-@end
-
 #endif
 #if defined(__cplusplus)
 #endif
