@@ -6,6 +6,16 @@
     "children": [
       {
         "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "CustomFrameworksPackage",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
         "name": "Foundation",
         "printedName": "Foundation",
         "declKind": "Import",
@@ -51,8 +61,8 @@
           },
           {
             "kind": "Function",
-            "name": "launchNewApp",
-            "printedName": "launchNewApp(baseVC:)",
+            "name": "launchNewApWithViewController",
+            "printedName": "launchNewApWithViewController(baseVC:)",
             "children": [
               {
                 "kind": "TypeNominal",
@@ -67,8 +77,8 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:23CustomFrameworksPackage9InterfaceC12launchNewApp6baseVCySo16UIViewControllerC_tFZ",
-            "mangledName": "$s23CustomFrameworksPackage9InterfaceC12launchNewApp6baseVCySo16UIViewControllerC_tFZ",
+            "usr": "s:23CustomFrameworksPackage9InterfaceC29launchNewApWithViewController6baseVCySo06UIViewJ0C_tFZ",
+            "mangledName": "$s23CustomFrameworksPackage9InterfaceC29launchNewApWithViewController6baseVCySo06UIViewJ0C_tFZ",
             "moduleName": "CustomFrameworksPackage",
             "static": true,
             "declAttributes": [
@@ -87,16 +97,6 @@
           "AccessControl"
         ],
         "hasMissingDesignatedInitializers": true
-      },
-      {
-        "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "CustomFrameworksPackage",
-        "declAttributes": [
-          "RawDocComment"
-        ]
       }
     ],
     "json_format_version": 8
