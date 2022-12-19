@@ -130,30 +130,30 @@
             "funcSelfKind": "NonMutating"
           },
           {
-            "kind": "Constructor",
-            "name": "init",
-            "printedName": "init()",
+            "kind": "Function",
+            "name": "loadView",
+            "printedName": "loadView()",
             "children": [
               {
                 "kind": "TypeNominal",
-                "name": "NewAppViewController",
-                "printedName": "CustomFrameworksPackage.NewAppViewController",
-                "usr": "c:@M@CustomFrameworksPackage@objc(cs)NewAppViewController"
+                "name": "Void",
+                "printedName": "()"
               }
             ],
-            "declKind": "Constructor",
-            "usr": "c:@M@CustomFrameworksPackage@objc(cs)NewAppViewController(im)init",
-            "mangledName": "$s23CustomFrameworksPackage20NewAppViewControllerCACycfc",
+            "declKind": "Func",
+            "usr": "c:@M@CustomFrameworksPackage@objc(cs)NewAppViewController(im)loadView",
+            "mangledName": "$s23CustomFrameworksPackage20NewAppViewControllerC04loadF0yyF",
             "moduleName": "CustomFrameworksPackage",
             "overriding": true,
-            "objc_name": "init",
+            "objc_name": "loadView",
             "declAttributes": [
               "Dynamic",
               "ObjC",
               "Custom",
+              "Override",
               "AccessControl"
             ],
-            "init_kind": "Designated"
+            "funcSelfKind": "NonMutating"
           },
           {
             "kind": "Constructor",
@@ -209,6 +209,47 @@
               "Override"
             ],
             "init_kind": "Designated"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(coder:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "CustomFrameworksPackage.NewAppViewController?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "NewAppViewController",
+                    "printedName": "CustomFrameworksPackage.NewAppViewController",
+                    "usr": "c:@M@CustomFrameworksPackage@objc(cs)NewAppViewController"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "NSCoder",
+                "printedName": "Foundation.NSCoder",
+                "usr": "c:objc(cs)NSCoder"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@CustomFrameworksPackage@objc(cs)NewAppViewController(im)initWithCoder:",
+            "mangledName": "$s23CustomFrameworksPackage20NewAppViewControllerC5coderACSgSo7NSCoderC_tcfc",
+            "moduleName": "CustomFrameworksPackage",
+            "overriding": true,
+            "implicit": true,
+            "objc_name": "initWithCoder:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Custom",
+              "Required"
+            ],
+            "init_kind": "Designated"
           }
         ],
         "declKind": "Class",
@@ -221,7 +262,7 @@
           "ObjC"
         ],
         "superclassUsr": "c:objc(cs)UIViewController",
-        "hasMissingDesignatedInitializers": true,
+        "inheritsConvenienceInitializers": true,
         "superclassNames": [
           "UIKit.UIViewController",
           "UIKit.UIResponder",
@@ -282,13 +323,5 @@
     ],
     "json_format_version": 8
   },
-  "ConstValues": [
-    {
-      "filePath": "\/Users\/jigar\/iCloud Drive (Archive)\/Documents\/AllFileCustomFrameworks\/CutomFrameworks OG\/CustomFrameworksPackage\/CustomFrameworksPackage\/NewAppViewController.swift",
-      "kind": "StringLiteral",
-      "offset": 130,
-      "length": 20,
-      "value": "\"CustomFrameworksPackage.NewAppViewController\""
-    }
-  ]
+  "ConstValues": []
 }

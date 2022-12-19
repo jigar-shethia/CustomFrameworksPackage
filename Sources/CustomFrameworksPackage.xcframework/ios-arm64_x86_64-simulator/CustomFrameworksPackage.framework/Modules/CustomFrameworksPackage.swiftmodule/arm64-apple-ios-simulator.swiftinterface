@@ -13,8 +13,10 @@ import _StringProcessing
   public static func launchNewApp(baseVC: UIKit.UIViewController)
   @objc deinit
 }
-@objc @_hasMissingDesignatedInitializers @_Concurrency.MainActor(unsafe) public class NewAppViewController : UIKit.UIViewController {
+@objc @_inheritsConvenienceInitializers @_Concurrency.MainActor(unsafe) public class NewAppViewController : UIKit.UIViewController {
   @_Concurrency.MainActor(unsafe) @objc override dynamic public func viewDidLoad()
-  @_Concurrency.MainActor(unsafe) @objc dynamic public init()
+  @_Concurrency.MainActor(unsafe) @objc override dynamic public func loadView()
+  @_Concurrency.MainActor(unsafe) @objc override dynamic public init(nibName nibNameOrNil: Swift.String?, bundle nibBundleOrNil: Foundation.Bundle?)
+  @_Concurrency.MainActor(unsafe) @objc required dynamic public init?(coder: Foundation.NSCoder)
   @objc deinit
 }
