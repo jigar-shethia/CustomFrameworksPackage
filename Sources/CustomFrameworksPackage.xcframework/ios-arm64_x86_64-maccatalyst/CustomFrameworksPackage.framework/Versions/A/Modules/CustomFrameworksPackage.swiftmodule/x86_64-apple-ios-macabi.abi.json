@@ -6,6 +6,16 @@
     "children": [
       {
         "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "CustomFrameworksPackage",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
         "name": "Foundation",
         "printedName": "Foundation",
         "declKind": "Import",
@@ -51,8 +61,8 @@
           },
           {
             "kind": "Function",
-            "name": "launchNewApp",
-            "printedName": "launchNewApp(baseVC:)",
+            "name": "launchNewApWithViewController",
+            "printedName": "launchNewApWithViewController(baseVC:)",
             "children": [
               {
                 "kind": "TypeNominal",
@@ -67,8 +77,8 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:23CustomFrameworksPackage9InterfaceC12launchNewApp6baseVCySo16UIViewControllerC_tFZ",
-            "mangledName": "$s23CustomFrameworksPackage9InterfaceC12launchNewApp6baseVCySo16UIViewControllerC_tFZ",
+            "usr": "s:23CustomFrameworksPackage9InterfaceC29launchNewApWithViewController6baseVCySo06UIViewJ0C_tFZ",
+            "mangledName": "$s23CustomFrameworksPackage9InterfaceC29launchNewApWithViewController6baseVCySo06UIViewJ0C_tFZ",
             "moduleName": "CustomFrameworksPackage",
             "static": true,
             "declAttributes": [
@@ -87,208 +97,9 @@
           "AccessControl"
         ],
         "hasMissingDesignatedInitializers": true
-      },
-      {
-        "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "CustomFrameworksPackage",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "TypeDecl",
-        "name": "NewAppViewController",
-        "printedName": "NewAppViewController",
-        "children": [
-          {
-            "kind": "Function",
-            "name": "viewDidLoad",
-            "printedName": "viewDidLoad()",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Void",
-                "printedName": "()"
-              }
-            ],
-            "declKind": "Func",
-            "usr": "c:@M@CustomFrameworksPackage@objc(cs)NewAppViewController(im)viewDidLoad",
-            "mangledName": "$s23CustomFrameworksPackage20NewAppViewControllerC11viewDidLoadyyF",
-            "moduleName": "CustomFrameworksPackage",
-            "overriding": true,
-            "objc_name": "viewDidLoad",
-            "declAttributes": [
-              "Dynamic",
-              "ObjC",
-              "Custom",
-              "Override",
-              "AccessControl"
-            ],
-            "funcSelfKind": "NonMutating"
-          },
-          {
-            "kind": "Constructor",
-            "name": "init",
-            "printedName": "init()",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "NewAppViewController",
-                "printedName": "CustomFrameworksPackage.NewAppViewController",
-                "usr": "c:@M@CustomFrameworksPackage@objc(cs)NewAppViewController"
-              }
-            ],
-            "declKind": "Constructor",
-            "usr": "c:@M@CustomFrameworksPackage@objc(cs)NewAppViewController(im)init",
-            "mangledName": "$s23CustomFrameworksPackage20NewAppViewControllerCACycfc",
-            "moduleName": "CustomFrameworksPackage",
-            "overriding": true,
-            "objc_name": "init",
-            "declAttributes": [
-              "Dynamic",
-              "ObjC",
-              "Custom",
-              "AccessControl"
-            ],
-            "init_kind": "Designated"
-          },
-          {
-            "kind": "Constructor",
-            "name": "init",
-            "printedName": "init(nibName:bundle:)",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "NewAppViewController",
-                "printedName": "CustomFrameworksPackage.NewAppViewController",
-                "usr": "c:@M@CustomFrameworksPackage@objc(cs)NewAppViewController"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "Optional",
-                "printedName": "Swift.String?",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "String",
-                    "printedName": "Swift.String",
-                    "usr": "s:SS"
-                  }
-                ],
-                "usr": "s:Sq"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "Optional",
-                "printedName": "Foundation.Bundle?",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Bundle",
-                    "printedName": "Foundation.Bundle",
-                    "usr": "c:objc(cs)NSBundle"
-                  }
-                ],
-                "usr": "s:Sq"
-              }
-            ],
-            "declKind": "Constructor",
-            "usr": "c:@M@CustomFrameworksPackage@objc(cs)NewAppViewController(im)initWithNibName:bundle:",
-            "mangledName": "$s23CustomFrameworksPackage20NewAppViewControllerC7nibName6bundleACSSSg_So8NSBundleCSgtcfc",
-            "moduleName": "CustomFrameworksPackage",
-            "overriding": true,
-            "implicit": true,
-            "objc_name": "initWithNibName:bundle:",
-            "declAttributes": [
-              "Dynamic",
-              "ObjC",
-              "Custom",
-              "Override"
-            ],
-            "init_kind": "Designated"
-          }
-        ],
-        "declKind": "Class",
-        "usr": "c:@M@CustomFrameworksPackage@objc(cs)NewAppViewController",
-        "mangledName": "$s23CustomFrameworksPackage20NewAppViewControllerC",
-        "moduleName": "CustomFrameworksPackage",
-        "declAttributes": [
-          "Custom",
-          "AccessControl",
-          "ObjC"
-        ],
-        "superclassUsr": "c:objc(cs)UIViewController",
-        "hasMissingDesignatedInitializers": true,
-        "superclassNames": [
-          "UIKit.UIViewController",
-          "UIKit.UIResponder",
-          "ObjectiveC.NSObject"
-        ],
-        "conformances": [
-          {
-            "kind": "Conformance",
-            "name": "Equatable",
-            "printedName": "Equatable",
-            "usr": "s:SQ",
-            "mangledName": "$sSQ"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Hashable",
-            "printedName": "Hashable",
-            "usr": "s:SH",
-            "mangledName": "$sSH"
-          },
-          {
-            "kind": "Conformance",
-            "name": "CVarArg",
-            "printedName": "CVarArg",
-            "usr": "s:s7CVarArgP",
-            "mangledName": "$ss7CVarArgP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "_KeyValueCodingAndObservingPublishing",
-            "printedName": "_KeyValueCodingAndObservingPublishing",
-            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
-            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "_KeyValueCodingAndObserving",
-            "printedName": "_KeyValueCodingAndObserving",
-            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
-            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "CustomStringConvertible",
-            "printedName": "CustomStringConvertible",
-            "usr": "s:s23CustomStringConvertibleP",
-            "mangledName": "$ss23CustomStringConvertibleP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "CustomDebugStringConvertible",
-            "printedName": "CustomDebugStringConvertible",
-            "usr": "s:s28CustomDebugStringConvertibleP",
-            "mangledName": "$ss28CustomDebugStringConvertibleP"
-          }
-        ]
       }
     ],
     "json_format_version": 8
   },
-  "ConstValues": [
-    {
-      "filePath": "\/Users\/jigar\/iCloud Drive (Archive)\/Documents\/AllFileCustomFrameworks\/CutomFrameworks OG\/CustomFrameworksPackage\/CustomFrameworksPackage\/NewAppViewController.swift",
-      "kind": "StringLiteral",
-      "offset": 130,
-      "length": 20,
-      "value": "\"CustomFrameworksPackage.NewAppViewController\""
-    }
-  ]
+  "ConstValues": []
 }
