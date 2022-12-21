@@ -22,7 +22,7 @@
 		</data>
 		<key>Modules/CustomFrameworksPackage.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		dvcyOQ2s3RLem3glpyq9ckgcHO0=
+		b8ZUXmrTaHAj4Kr24ubaCQcuDC4=
 		</data>
 		<key>Modules/CustomFrameworksPackage.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -38,11 +38,11 @@
 		</data>
 		<key>Modules/CustomFrameworksPackage.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		I6cifcrwSaRkJwo5hB6YmlRgPs0=
+		k2PFXiK5B4AuxkZBqdwEq+ph8bo=
 		</data>
 		<key>Modules/CustomFrameworksPackage.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		dvcyOQ2s3RLem3glpyq9ckgcHO0=
+		b8ZUXmrTaHAj4Kr24ubaCQcuDC4=
 		</data>
 		<key>Modules/CustomFrameworksPackage.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -58,11 +58,15 @@
 		</data>
 		<key>Modules/CustomFrameworksPackage.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		pNSQ6oQzy9lNymu5Fun0J5FdqpU=
+		s7f6ZnP0AjHT3I3qh+6W1kiUdK8=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
 		hmrjxvFUdjK57dqcmUpzdV4jHyg=
+		</data>
+		<key>TestViewController.nib</key>
+		<data>
+		KOMmNtngO38IffzQoJOp/N3PI7g=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -92,7 +96,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			8txvd3jM4dEAjyUlFCAed510YN1jcwvZzKrYl1jN9a4=
+			7mTnptJlizX0iOVaMYVPagO7FlJD8l5AqicMyro8iQI=
 			</data>
 		</dict>
 		<key>Modules/CustomFrameworksPackage.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
@@ -120,14 +124,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			qu3nNf7a2pNsM7RXdpjxtIENVmhdIRQn6neF5+Y0iCA=
+			U8CVS3UJ8XYixzwhYhqOJooJKki0OzRnZZwOrL2iMKs=
 			</data>
 		</dict>
 		<key>Modules/CustomFrameworksPackage.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			8txvd3jM4dEAjyUlFCAed510YN1jcwvZzKrYl1jN9a4=
+			7mTnptJlizX0iOVaMYVPagO7FlJD8l5AqicMyro8iQI=
 			</data>
 		</dict>
 		<key>Modules/CustomFrameworksPackage.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
@@ -155,7 +159,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			uIYZs48Qo0uP9tYcT8qqBhMXrttovv2y7k5d85CdD14=
+			vf71FHkAaSASsCjNDSptWjkxVJnwcdg9AbeYWRVrJmg=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -163,6 +167,13 @@
 			<key>hash2</key>
 			<data>
 			dQMKc/rzag5a0veJI1AkdMaDKt0N+QZDsG3IBhPgTZY=
+			</data>
+		</dict>
+		<key>TestViewController.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			j51Ugq3t/7OkPhfHrBhAnONwYU8jFe/tKWbW365xIKU=
 			</data>
 		</dict>
 	</dict>

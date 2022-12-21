@@ -22,7 +22,7 @@
 		</data>
 		<key>Modules/CustomFrameworksPackage.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		dvcyOQ2s3RLem3glpyq9ckgcHO0=
+		b8ZUXmrTaHAj4Kr24ubaCQcuDC4=
 		</data>
 		<key>Modules/CustomFrameworksPackage.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
@@ -38,11 +38,15 @@
 		</data>
 		<key>Modules/CustomFrameworksPackage.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		tjPHAO3DSYUh0uXNrRaUA0z8lfY=
+		3b7iJ4aqdokYsQBJ5ypUW1Vgxic=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
 		hmrjxvFUdjK57dqcmUpzdV4jHyg=
+		</data>
+		<key>TestViewController.nib</key>
+		<data>
+		KOMmNtngO38IffzQoJOp/N3PI7g=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -72,7 +76,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			8txvd3jM4dEAjyUlFCAed510YN1jcwvZzKrYl1jN9a4=
+			7mTnptJlizX0iOVaMYVPagO7FlJD8l5AqicMyro8iQI=
 			</data>
 		</dict>
 		<key>Modules/CustomFrameworksPackage.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
@@ -100,7 +104,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			tF0QhdILmWh/EzEDmS64YqJ9fCOwO7zA/yyw2qaSHnc=
+			YrwBs3hOEbzrqV5SXO7B0sOYzDK6IYSOkR3fmDoQdyc=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -108,6 +112,13 @@
 			<key>hash2</key>
 			<data>
 			dQMKc/rzag5a0veJI1AkdMaDKt0N+QZDsG3IBhPgTZY=
+			</data>
+		</dict>
+		<key>TestViewController.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			j51Ugq3t/7OkPhfHrBhAnONwYU8jFe/tKWbW365xIKU=
 			</data>
 		</dict>
 	</dict>
