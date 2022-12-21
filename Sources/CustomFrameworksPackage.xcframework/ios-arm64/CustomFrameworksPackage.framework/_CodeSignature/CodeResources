@@ -10,7 +10,7 @@
 		</data>
 		<key>Headers/CustomFrameworksPackage.h</key>
 		<data>
-		9zsfY6o9a2C8VBaXJaLSx+h19jY=
+		k/RDZK0q3+JA1NjpY789C/pbgn8=
 		</data>
 		<key>Info.plist</key>
 		<data>
@@ -18,7 +18,7 @@
 		</data>
 		<key>IntegrationViewController.nib</key>
 		<data>
-		8X6RJSTXAc9GkPLSeElj4UPhgno=
+		BXDYLBgRr82JziEH7T47cm1B6wc=
 		</data>
 		<key>Modules/CustomFrameworksPackage.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
@@ -58,14 +58,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			P3fDOOd8PJ+r1m8CIS2GaU/236cHMouHQ/ee8O9cFUM=
+			sLhS8UQgkCqF7C3yiayUXqRhi1gwjvF02TAYKAG+4o0=
 			</data>
 		</dict>
 		<key>IntegrationViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			F71xCLxaGr/MzDJzxS3+d5wo50lQrW5xEOgXXZeHAOw=
+			JSIO5jAgz0s//auwf012sRKb68mKuUyz70hqhV9pv20=
 			</data>
 		</dict>
 		<key>Modules/CustomFrameworksPackage.swiftmodule/arm64-apple-ios.abi.json</key>
