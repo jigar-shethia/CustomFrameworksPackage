@@ -10,11 +10,7 @@
 		</data>
 		<key>Resources/IntegrationViewController.nib</key>
 		<data>
-		EWrfPrfvdQUW5+cgQWnFSxI08l0=
-		</data>
-		<key>Resources/TestViewController.nib</key>
-		<data>
-		MiUYCBTZUlWewX5bw8OxQULLfnw=
+		OfmMfkzvkHU5/Oos0zHYSeEEvhU=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -30,14 +26,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			sLhS8UQgkCqF7C3yiayUXqRhi1gwjvF02TAYKAG+4o0=
+			P3fDOOd8PJ+r1m8CIS2GaU/236cHMouHQ/ee8O9cFUM=
 			</data>
 		</dict>
 		<key>Modules/CustomFrameworksPackage.swiftmodule/arm64-apple-ios-macabi.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			7mTnptJlizX0iOVaMYVPagO7FlJD8l5AqicMyro8iQI=
+			8txvd3jM4dEAjyUlFCAed510YN1jcwvZzKrYl1jN9a4=
 			</data>
 		</dict>
 		<key>Modules/CustomFrameworksPackage.swiftmodule/arm64-apple-ios-macabi.private.swiftinterface</key>
@@ -65,14 +61,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			vgLh4hyThuWcjeGmadSz3LF6eDrSPBKxqph4IxGBKRg=
+			Z1XnnMCW4iwkHEzgcbmixgn58aUQviTsYBEeD6oLdyk=
 			</data>
 		</dict>
 		<key>Modules/CustomFrameworksPackage.swiftmodule/x86_64-apple-ios-macabi.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			7mTnptJlizX0iOVaMYVPagO7FlJD8l5AqicMyro8iQI=
+			8txvd3jM4dEAjyUlFCAed510YN1jcwvZzKrYl1jN9a4=
 			</data>
 		</dict>
 		<key>Modules/CustomFrameworksPackage.swiftmodule/x86_64-apple-ios-macabi.private.swiftinterface</key>
@@ -100,7 +96,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			FZU02UMGxQTVqu3pW8og/jND9AMHz2wxdz/m9oFPkSM=
+			TDqId2TNA9WPU+OzKXj2irnAONqHNOVXZR10sBKjyR8=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -121,14 +117,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			C9oL2VUtfQJrb7IOB4/EsqTqtQo265E6yBKsGSFq/jM=
-			</data>
-		</dict>
-		<key>Resources/TestViewController.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			yB/QYjrM9t0lc4bEe/lUwguyRwgyO6WAH+cTa1eGhgo=
+			jqteZPZJS+OjJUhYVIZcFuM/XKK8J1s+zNT5DkJ3dSg=
 			</data>
 		</dict>
 	</dict>

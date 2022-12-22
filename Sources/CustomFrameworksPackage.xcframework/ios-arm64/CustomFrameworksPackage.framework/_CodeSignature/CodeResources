@@ -10,7 +10,7 @@
 		</data>
 		<key>Headers/CustomFrameworksPackage.h</key>
 		<data>
-		k/RDZK0q3+JA1NjpY789C/pbgn8=
+		9zsfY6o9a2C8VBaXJaLSx+h19jY=
 		</data>
 		<key>Info.plist</key>
 		<data>
@@ -18,11 +18,11 @@
 		</data>
 		<key>IntegrationViewController.nib</key>
 		<data>
-		BXDYLBgRr82JziEH7T47cm1B6wc=
+		8X6RJSTXAc9GkPLSeElj4UPhgno=
 		</data>
 		<key>Modules/CustomFrameworksPackage.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		b8ZUXmrTaHAj4Kr24ubaCQcuDC4=
+		dvcyOQ2s3RLem3glpyq9ckgcHO0=
 		</data>
 		<key>Modules/CustomFrameworksPackage.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
@@ -38,15 +38,11 @@
 		</data>
 		<key>Modules/CustomFrameworksPackage.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		3b7iJ4aqdokYsQBJ5ypUW1Vgxic=
+		tjPHAO3DSYUh0uXNrRaUA0z8lfY=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
 		hmrjxvFUdjK57dqcmUpzdV4jHyg=
-		</data>
-		<key>TestViewController.nib</key>
-		<data>
-		KOMmNtngO38IffzQoJOp/N3PI7g=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -62,21 +58,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			sLhS8UQgkCqF7C3yiayUXqRhi1gwjvF02TAYKAG+4o0=
+			P3fDOOd8PJ+r1m8CIS2GaU/236cHMouHQ/ee8O9cFUM=
 			</data>
 		</dict>
 		<key>IntegrationViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			JSIO5jAgz0s//auwf012sRKb68mKuUyz70hqhV9pv20=
+			F71xCLxaGr/MzDJzxS3+d5wo50lQrW5xEOgXXZeHAOw=
 			</data>
 		</dict>
 		<key>Modules/CustomFrameworksPackage.swiftmodule/arm64-apple-ios.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			7mTnptJlizX0iOVaMYVPagO7FlJD8l5AqicMyro8iQI=
+			8txvd3jM4dEAjyUlFCAed510YN1jcwvZzKrYl1jN9a4=
 			</data>
 		</dict>
 		<key>Modules/CustomFrameworksPackage.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
@@ -104,7 +100,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			YrwBs3hOEbzrqV5SXO7B0sOYzDK6IYSOkR3fmDoQdyc=
+			tF0QhdILmWh/EzEDmS64YqJ9fCOwO7zA/yyw2qaSHnc=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -112,13 +108,6 @@
 			<key>hash2</key>
 			<data>
 			dQMKc/rzag5a0veJI1AkdMaDKt0N+QZDsG3IBhPgTZY=
-			</data>
-		</dict>
-		<key>TestViewController.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			j51Ugq3t/7OkPhfHrBhAnONwYU8jFe/tKWbW365xIKU=
 			</data>
 		</dict>
 	</dict>
