@@ -23,6 +23,13 @@
       },
       {
         "kind": "Import",
+        "name": "ComplexModule",
+        "printedName": "ComplexModule",
+        "declKind": "Import",
+        "moduleName": "CustomFrameworksPackage"
+      },
+      {
+        "kind": "Import",
         "name": "Foundation",
         "printedName": "Foundation",
         "declKind": "Import",
